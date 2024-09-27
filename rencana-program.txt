@@ -1,3 +1,4 @@
 menyusun program
 jalankan program
+-mengelolah
 analisa program
