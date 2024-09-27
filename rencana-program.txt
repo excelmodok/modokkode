@@ -1,0 +1,3 @@
+menyusun program
+jalankan program
+analisa program
