@@ -3,9 +3,9 @@ menyusun program
 2
 3
 jalankan program
--mengelolah
 -struktur
 analisa program
 1a
 2b
 3c
+
