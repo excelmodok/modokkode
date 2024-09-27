@@ -1,4 +1,7 @@
 menyusun program
+1
+2
+3
 jalankan program
 -mengelolah
 -struktur
