@@ -1,2 +1,2 @@
-# modokkode
+# kode
 tujuan kode
